@@ -102,11 +102,11 @@ geojson.features.forEach(function(route) {
 
     // create a HTML element for each feature
     var el = document.createElement('div');
-    el.className = 'marker';
+    el.className = 'route';
   
     // make a marker for each feature and add to the map
-    new mapboxgl.Marker(el)
-      .setLngLat(marker.geometry.coordinates)
+    new mapboxgl.route(el)
+      .setLngLat(route.geometry.coordinates)
       .addTo(map);
   });
 
