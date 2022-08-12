@@ -14,7 +14,7 @@ const busStops = [
   ];
   
   mapboxgl.accessToken =
-    'pk.eyJ1IjoidGVzdHVzZXIxMDAwIiwiYSI6ImNraDkzZ2pkMzAzMHoycnBmMXpvZ3UwZnMifQ.jAE4YsPeAJv50VK92NSpOQ';
+    'pk.eyJ1IjoiZ2FmZXIiLCJhIjoiY2w2cHVqdzByMDdmczNkcHlia3VheHFpciJ9.czfo5EZ6HUmnoFc68RPPuA';
   
   let map = new mapboxgl.Map({
     container: 'map',
