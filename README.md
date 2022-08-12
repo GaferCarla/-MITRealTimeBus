@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Roadmap</a> &#xa0; | &#xa0;
+  <a href="#sparkles-roadmap">Roadmap</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -49,7 +49,7 @@
 
 This is an assigmnent for MitxPro Full development with MERN. This exercise works with asynchronous code and APIs
 
-## :sparkles: Features ##
+## :sparkles: Roadmap ##
 
 :heavy_check_mark: I would like to add a real-time bus tracker.\
 
@@ -67,6 +67,8 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+Click <a href="https://gafercarla.github.io/-MITRealTimeBus/">here</a> to run the project.
 
 ## :checkered_flag: Starting ##
 
