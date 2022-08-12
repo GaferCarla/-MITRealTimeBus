@@ -1,12 +1,20 @@
 # -MITRealTimeBus
 Description:
+
 This is an assigmnent for MitxPro Full development with MERN. This exercise works with asynchronous code and APIs
+
+
 How to run:
+
 Click here to run the project.
+
 
 Installation: N/A
 
+
 Roadmap: I would like to add a real-time bus tracker.
+
+
 
 MIT License
 
