@@ -1,39 +1,99 @@
-# -MITRealTimeBus
-Description:
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="MITRealTimeBus" />
+
+  &#xa0;
+
+  <!-- <a href="https://mitrealtimebus.netlify.app">Demo</a> -->
+</div>
+
+<h1 align="center">MITRealTimeBus</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/GaferCarla/mitrealtimebus?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/GaferCarla/mitrealtimebus?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GaferCarla/mitrealtimebus?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/GaferCarla/mitrealtimebus?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/GaferCarla/mitrealtimebus?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/GaferCarla/mitrealtimebus?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/GaferCarla/mitrealtimebus?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  MITRealTimeBus 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/GaferCarla" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
+
 
 This is an assigmnent for MitxPro Full development with MERN. This exercise works with asynchronous code and APIs
 
+## :sparkles: Features ##
 
-How to run:
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
 
-Click here to run the project.
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/GaferCarla/mitrealtimebus
+
+# Access
+$ cd mitrealtimebus
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn start
+
+# The server will initialize in the <http://localhost:3000>
+```
+
+## :memo: License ##
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Installation: N/A
+Made with :heart: by <a href="https://github.com/GaferCarla" target="_blank">Gafer</a>
 
+&#xa0;
 
-Roadmap: I would like to add a real-time bus tracker.
-
-
-
-MIT License
-
-Copyright (c) 2021 rnathaniel85
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+<a href="#top">Back to top</a>
