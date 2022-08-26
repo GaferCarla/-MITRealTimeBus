@@ -7,6 +7,7 @@
 </div>
 
 <h1 align="center">MITRealTimeBus</h1>
+<img src="./bus.gif" style="display: block; margin: auto; width:50% ">
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/GaferCarla/mitrealtimebus?color=56BEB8">
@@ -35,9 +36,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-roadmap">Roadmap</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#rocket-run">How to run</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/GaferCarla" target="_blank">Author</a>
 </p>
@@ -47,44 +46,20 @@
 ## :dart: About ##
 
 
-This is an assigmnent for MitxPro Full development with MERN. This exercise works with asynchronous code and APIs
+This is an assigmnent for MitxPro Full development with MERN. This exercise works with asynchronous code and APIs. The goal of this project was to track the bus stops between MIT and Harvard. 
 
 ## :sparkles: Roadmap ##
 
 :heavy_check_mark: I would like to add a real-time bus tracker.\
 
 
-## :rocket: Technologies ##
+## :rocket: How to run ##
 
-The following tools were used in this project:
+The app contains two buttons. The first "Show stop between MIT and Harvard" initializes the animation of the bus line stops. The second "Pause" button stops the tour.
+To continue, just click the "Show..." button again.
 
--HTML
--JS
--CSS
+If you want to know how look, click <a href="https://gafercarla.github.io/-MITRealTimeBus/">here</a>
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-Click <a href="https://gafercarla.github.io/-MITRealTimeBus/">here</a> to run the project.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/GaferCarla/mitrealtimebus
-
-# Access
-$ cd mitrealtimebus
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
 
 ## :memo: License ##
 
