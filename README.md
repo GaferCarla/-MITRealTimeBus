@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="-MITRealTimeBus" />
+  <img src="./.github/app.gif" alt="-MITRealTimeBus"  />
 
   &#xa0;
 
@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">-MITRealTimeBus</h1>
-<img src="./bus.gif" style="display: block; margin: auto; width:50% ">
+<img src="./bus.gif" style="display: block; margin: auto; width:50% " align="center">
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/GaferCarla/-MITRealTimeBus?color=56BEB8">
